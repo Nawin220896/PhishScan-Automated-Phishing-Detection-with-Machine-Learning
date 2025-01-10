@@ -145,10 +145,10 @@ Future work includes:
 
 ## Kaggle Notebook and Document Links
 
-https://docs.google.com/spreadsheets/d/1vO7BbM3pM7NZCmql8z2n5EFdh2xLxqN0NS7zprdT-08/edit?gid=0#gid=0
-https://www.kaggle.com/code/wgrier/cse575-randomforestclassifier
-https://colab.research.google.com/drive/1EtypK9Q8mnICjpt19BXIgw1S3cOohH-X?usp=sharing
-https://www.kaggle.com/code/ianoxley/cse575-rnn-url
-https://colab.research.google.com/drive/1RFHN8k9gRP6FZcHrS2hGY8J66PU81ouC?usp=sharing
-https://www.kaggle.com/code/naveenkumarmanokaran/phishing-dataset-analysis?scriptVersionId=165989833
+* https://docs.google.com/spreadsheets/d/1vO7BbM3pM7NZCmql8z2n5EFdh2xLxqN0NS7zprdT-08/edit?gid=0#gid=0
+* https://www.kaggle.com/code/wgrier/cse575-randomforestclassifier
+* https://colab.research.google.com/drive/1EtypK9Q8mnICjpt19BXIgw1S3cOohH-X?usp=sharing
+* https://www.kaggle.com/code/ianoxley/cse575-rnn-url
+* https://colab.research.google.com/drive/1RFHN8k9gRP6FZcHrS2hGY8J66PU81ouC?usp=sharing
+* https://www.kaggle.com/code/naveenkumarmanokaran/phishing-dataset-analysis?scriptVersionId=165989833
 
